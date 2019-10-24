@@ -33,4 +33,4 @@
 ## Отдел безопасности
 Данный отдел занимается обеспечением безопасности деятельности компании, исключением вероятности несанкционированного доступа к информации, своевременным выявлением и перекрытием каналов утечки информации.
 
-<iframe src="https://funhtml5games.com?embed=flappy" style="width:800px;height:520px;border:none;" frameborder="0" scrolling="no"></iframe>
+<img src="https://media.giphy.com/media/wUf0jPd2ksY92/giphy.gif">
